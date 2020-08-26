@@ -1,3 +1,4 @@
-<button>
-  <a href="#">ボタン</a>
-</button>
+class PostsController < ApplicationController
+  def index
+  end
+end
